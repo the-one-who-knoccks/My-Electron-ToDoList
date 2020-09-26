@@ -1,5 +1,4 @@
-UI clone da interface de anúncio de produtos do Mercado Livre. Interface criado por Guilherme Rodz, da Rocketseat. :rocket:
-Estou aprimorando o código aos poucos para deixar o mais fiél possivel com a original.
+Gerador de gifs criado com React usando custom hooks e api do Giphy.
  
 
 <h1 align="center">
@@ -8,4 +7,4 @@ Estou aprimorando o código aos poucos para deixar o mais fiél possivel com a o
      
       
      
-Made by Rocketseat. Improved with :purple_heart: by Thiago Alves 
+Feito com :purple_heart: por Thiago Alves. 
